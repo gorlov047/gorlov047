@@ -1,16 +1,14 @@
-### Hi there 👋
+### Добро пожаловать! 👋
+  Я Максим Горлов. Живу в Москве, учусь в НИЯУ МИФИ, 3 курс, программная инженерия. Самостоятельно стараюсь развиваться в области Data Science. В перерывах между учебой занимаюсь армрестлингом.
 
-<!--
-**gorlov047/gorlov047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  **Стэк**:  Python(Base (Pandas, Numpy, SciPy, tqdm) – ML(SciKit-Learn, LightGBM, Catboost, XGBoost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn)), SQL, Linux, Git.
 
-Here are some ideas to get you started:
+  
+  **IDE**: VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  **[Kaggle profile](https://www.kaggle.com/maksgorlov)**
+
+  
+  📩 Проще всего связаться со мной через [Telegram](https://t.me/vvubbaIubbadubdub)
